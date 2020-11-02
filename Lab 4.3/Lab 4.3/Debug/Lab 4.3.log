@@ -1,0 +1,5 @@
+﻿  Lab 4.3.cpp
+W:\Labs\Lab 4.3\Lab 4.3\Lab 4.3.cpp(7,27): warning C4101: B: неиспользованная локальная переменная
+W:\Labs\Lab 4.3\Lab 4.3\Lab 4.3.cpp(7,30): warning C4101: y: неиспользованная локальная переменная
+W:\Labs\Lab 4.3\Lab 4.3\Lab 4.3.cpp(7,24): warning C4101: A: неиспользованная локальная переменная
+  Lab 4.3.vcxproj -> W:\Labs\Lab 4.3\Debug\Lab 4.3.exe
